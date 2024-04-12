@@ -68,7 +68,7 @@ social_media = [
 ]
 
 print(f"{BLUE}######  Profile-Hunter ######{NORMAL}")
-print(f"{BLUE}[*] Credit: Morta1DieTw1Ce{NORMAL}")
+print(f"{BLUE}[*] Credit: Invictus27{NORMAL}")
 print(f"{BLUE}[*] This tool is for educational purposes only.{NORMAL}\n\n")
 
 
