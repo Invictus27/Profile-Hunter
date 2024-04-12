@@ -5,7 +5,7 @@ help of Profile-hunter
 
 # Installation 
 
-git clone https://github.com/Morta1DieTw1Ce/Profile-Hunter/
+git clone https://github.com/Invictus27/Profile-Hunter/
 cd Profile-Hunter
 python Profile-Hunter
 
